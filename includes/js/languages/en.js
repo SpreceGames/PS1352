@@ -69,4 +69,3 @@ window.lang = {
     "alreadyJailbroken": "Já está com Jailbreak ...",
     "reloadAfterJbText": "Recarregar após um jailbreak bem-sucedido",
 }
-}
